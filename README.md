@@ -1,5 +1,5 @@
 
-##mybatis中用到的设计模式
+## mybatis中用到的设计模式
 
 - 装饰者模式：cachingExceutord对Execctor进行包装
 - 建造模式：SqlSessionFactoryBuilder去创建SqlSessionFactory，
@@ -12,8 +12,8 @@
 - 策略模式：RoutingStatementHandler
 - 单例模式：Configuration
 
-##mybatis中update操作时序图
+## mybatis中update操作时序图
 
 ![image](./mybatis中update流程时序图.jpg)
 
-##手写mybatis框架在mybatis_framework这个工程中
+## 手写mybatis框架在mybatis_framework这个工程中
